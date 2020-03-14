@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ujohtiede.light-drow.net/sitemap.xml
